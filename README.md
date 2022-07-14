@@ -1,1 +1,2 @@
 # lista-7catalisa
+Entregando a sétima lista para o Projeto Catalisa da Zup Innovation. Nesta lista fizemos metódos para verificar se um país faz fronteira com outro. Calculamos a densidade popu lacional e mostramos informações sobre os paises.
